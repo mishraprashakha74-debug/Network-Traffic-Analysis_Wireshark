@@ -120,7 +120,7 @@ Ctrl + C
 
 ---
 
-# 📊 Results
+#  Results
 
 The project successfully captured and analyzed live network packets using Wireshark and tcpdump.
 
@@ -142,7 +142,7 @@ Packet information analyzed:
 
 ---
 
-# 📚 Skills Learned
+#  Skills Learned
 
 * Packet Sniffing
 * Network Traffic Analysis
